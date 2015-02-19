@@ -6,11 +6,11 @@ Bun venit la <span>Thunderbird</span>
 
 
 ;Happy 10th Birthday Thunderbird!
-Happy 10th Birthday Thunderbird!
+La mulți ani de 10 ani Thunderbird!
 
 
 ;Mozilla announced Thunderbird version 1.0 ten years ago. Can you imagine the last ten years without e-mail? Can you imagine e-mail without Thunderbird? We can’t!
-Mozilla announced Thunderbird version 1.0 ten years ago. Can you imagine the last ten years without e-mail? Can you imagine e-mail without Thunderbird? We can’t!
+Mozilla a anunțat Thunderbird versiunea 1.0 acum 10 ani. Puteți să vă imaginați ultimii zece ani fără email? Puteți sa vă imaginați emailul fără Thunderbird? Nici noi!
 
 
 ;Contribute to Thunderbird
@@ -18,19 +18,19 @@ Contribuie la Thunderbird
 
 
 ;To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href="%s">recently organized</a> to focus on the future.
-To ensure that Thunderbird continues to improve, as it has for the last ten years, active contributors <a href="%s">recently organized</a> to focus on the future.
+Pentru a putea continua să îmbunătățim Thunderbird, cum am făcut-o în ultimii zece ani, contributorii activi <a href="%s">s-au organizat recent</a> pentru a se putea concentra pe viitor.
 
 
 ;Now is a great time for you to <a href="%s" class="iconic">get involved</a>.
-Now is a great time for you to <a href="%s" class="iconic">get involved</a>.
+Acum e o perioadă excelentă să <a href="%s" class="iconic">te implici</a>.
 
 
 ;Please help us assist users of Thunderbird, and improve the Thunderbird product and eco-system.
-Please help us assist users of Thunderbird, and improve the Thunderbird product and eco-system.
+Vă rugam să ne ajutați să ajutăm utilizatorii Thunderbird să îmbunătățească produsul și ecosistemul Thunderbird.
 
 
 ;We look forward to <a href="%s">hearing from you</a>.
-We look forward to <a href="%s">hearing from you</a>.
+Vrem să <a href="%s">auzim de la tine</a>.
 
 
 ;Learn more
@@ -38,15 +38,15 @@ Aflați mai multe
 
 
 ;Need Support?
-Need Support?
+Aveți nevoie de suport tehnic?
 
 
 ;Most Thunderbird support questions are answered on the <a href="%s">Knowledge Base</a>.
-Most Thunderbird support questions are answered on the <a href="%s">Knowledge Base</a>.
+Cele mai multe întrebări de suport sunt răspunse în <a href="%s">Baza de cunoștiințe</a>.
 
 
 ;If you can’t find an answer, <a href="%s">ask your question on our support forum</a>.
-If you can’t find an answer, <a href="%s">ask your question on our support forum</a>.
+Dacă nu puteți găsi un răspuns, puteți să <a href="%s">întrebați pe forumul de suport</a>.
 
 
 # If your locale has a dedicated Thunderbird support forum, you can localize the URL

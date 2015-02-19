@@ -7,85 +7,85 @@ Păstrați-vă Firefox sincronizat
 
 
 ;Ready, Set, Sync
-Ready, Set, Sync
+Pe locuri, fiți gata, Sync
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
-You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
+V-ați înregistrat. Sunteți gata să accesați Firefoxul dumneavoastră oriunde, la orice oră
 
 
 ;Take your Web with you
-Take your Web with you
+Luați Web-ul cu dumneavoastră
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Sync-ronizați cu Firefox oricînd doriți să accesați semnele de carte, parolele și altele de pe telefon, tabletă și calculator.
 
 
 ;It looks like you’re running an older version of Firefox.
-It looks like you’re running an older version of Firefox.
+Se pare că folosiți o variantă mai veche de Firefox.
 
 
 ;The new version of Sync only works with the latest version of Firefox
-The new version of Sync only works with the latest version of Firefox
+Noua versiune cu Sync merge doar cu cea mai nouă versiune de Firefox
 
 
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync is just one of the great features you’ll only get with Firefox. Discover them all!
+Sync e doar una din funcțiile importante pe care le puteți găsi în Firefox. Descoperiți-le pe toate!
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+Sync e doar una din funcțiile importante pe care le puteți avea cu Firefox.
 
 
 ;Download Firefox for Android
-Download Firefox for Android
+Descărcati Firefox pentru Android
 
 
 ;Need help?
-Need help?
+Aveți nevoie de ajutor?
 
 
 ;Get started with Sync
-Get started with Sync
+Porniți la drum cu Sync
 
 
 ;Update your Firefox
-Update your Firefox
+Actualizați Firefox
 
 
 ;Download Firefox
-Download Firefox
+Descărcați Firefox
 
 
 ;Get started with Sync in four easy steps:
-Get started with Sync in four easy steps:
+Porniți la drum cu Sync în patru pași:
 
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
 ;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Deschide <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">meniul</a> în partea dreaptă sus din Firefox și alegeți “<strong>Sign in to Sync.</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Click “<strong>Get started</strong>” in the tab that opens.
+Dați click pe “<strong>Get started</strong>” în tab-ul care se deschide
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
-Enter an email address and password to “<strong>Create a Firefox Account.</strong>”
+Introduceți adresa de email și parola pentru a “<strong>Crea un cont Firefox</strong>”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Click “<strong>Next</strong>” to get a verification sent to your email.
+Dați click pe “<strong>Înainte</strong>” pentru a primi un email de verificare.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+După ce vă verificați poșta electronică (email), dați click pe link-ul de verificare! Firefox vă va sincroniza în mod automat din acel moment.
 
 
 ;Get more detailed instructions.
@@ -93,87 +93,86 @@ Citiți mai multe instrucțiuni detaliate.
 
 
 ;Using an older version of Sync?
-Utilizați o versiune mai veche de Sincronizare (Sync)?
+Folosiți o versiune mai veche de Sync?
 
 
 # This string is displayed on Android devices
 ;How to set up Sync in five easy steps:
-How to set up Sync in five easy steps:
+Cum să obțineți Sync în cinci pași ușori:
 
 
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+Atingeți butonul <strong>Meniu</strong> (aflat fie sub ecran sau în colțul din partea dreaptă sus al navigatorului).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+Alegeți <strong>Setări</strong> (s-ar putea să trebuiască să apăsați pe <strong>Mai multe (More)</strong> mai întâi).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+Apăsați pe <strong>Sync</strong> apoi pe <strong>Pornire (Get Started)</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+Pagina <strong>Creează un nou cont Firefox</strong> va deschide un nou tab.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Completați formularul și apăsați pe opțiunea <strong>Înainte (Next)</strong>.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-
+După ce vă verificați poșta electronică (email) și dati click pe link-ul de verificare, veți fi gata să porniți! Nu uitați să vă conectați toate celelalte dispozitive pentru a obține maximul din Sync.
 
 ;Sync a little. Sync a lot.
-Sync a little. Sync a lot.
+Sincronizați puțin. Sincronizați mai mult.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Puteți alege părțile din Firefox pe care vreți să le sincronizați și unde să le sincronizați. Luați taburile deschise pe drumul către serviciu. Accesați semnele de carte la muncă. Orice, oricând, oriunde.
 
 
 ;At home
-At home
+Acasa
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+Mutați-va de la birou pe canapea fără să pierdeți nimic. Accesați tab-urile deschise de pe telefon sau navigați semnele de carte chiar de pe tabletă.
 
 
 ;At work
-At work
+La muncă
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Rămâneti conectați la toată informația importantă. Sincronizați parolele și semnele de carte pe care vreți să le accesați oricând. Firefox vă oferă o maximă siguranță.
 
 
 ;On the go
-On the go
+Pe drum
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Țineți pasul cu saiturile favorite sau terminați de citit articolul pe care l-ați început acasă, oriunde ați merge. Cu Sync, totul e mult mai ușor.
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+Aveți un <b>telefon</b> sau <b>tabletă Android</b>?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
-DOWNLOAD FIREFOX FOR ANDROID
+DESCĂRCAȚI FIREFOX PENTRU ANDROID
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
+Pentru a onține întreaga experiență Sync, luați web-ul cu dumneavoastră oriunde folosiți Firefox. Conectați-vă telefonul, tableta, calculatorul sau laptopul.
 
 
 # Used in old page, do not remove , do not remove
@@ -183,22 +182,22 @@ Creați-vă instantaneu o experiență unică cu Firefox oriunde îl folosiți. 
 
 # Used in old page, do not remove
 ;Get started with Sync. It’s fast, safe and easy:
-Începeți cu Sincronizare. Este rapid, sigur și ușor:
+Începeți cu Sync. Este rapid, sigur și ușor:
 
 
 # Used in old page, do not remove
 ;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Deschideți <a class="menu" href="%(url)s#w_a-handy-new-menu">meniul</a> din partea dreaptă sus din Firefox și selectați “<strong>Autentificare (Sign in) Sync.</strong>”
 
 
 # Used in old page, do not remove
 ;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Deschideți <a href="%(url)s#w_a-handy-new-menu">meniul</a> din partea dreaptă de sus din Firefox și selectați „Autentificare la Sincronizare.”
+Deschideți <a href="%(url)s#w_a-handy-new-menu">meniul</a> din partea dreaptă de sus din Firefox și selectați „Autentificare (Sign in) Sync.”
 
 
 # Used in old page, do not remove
 ;Click “Get started” in the tab that opens.
-Clic pe „Începe” în fila care se deschide.
+Clic pe „Începe” în tabul care se deschide.
 
 
 # Used in old page, do not remove
@@ -213,7 +212,7 @@ Clic pe „Înainte” pentru a primi o verificare trimisă pe emailul dumneavoa
 
 # Used in old page, do not remove
 ;Check your email and click the verification link.
-Verificați-vă emailul și clic pe legătura de verificare.
+Verificați-vă emailul și click pe legătura de verificare.
 
 
 # Used in old page, do not remove
@@ -228,7 +227,7 @@ Aveți un telefon sau o tabletă cu Android?
 
 # Used in old page, do not remove
 ;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
+<a href="%(url)s">Descărcați Firefox pentru Android</a> pentru a vă sincroniza între calculator și dispozitivele dumneavoastră mobile.
 
 
 # Used in old page, do not remove

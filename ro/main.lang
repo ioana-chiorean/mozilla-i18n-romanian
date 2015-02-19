@@ -31,7 +31,7 @@ Laborator
 
 
 ;skip to Navigation
-sari la Navigare
+sări la Navigare
 
 
 ;switch language
@@ -82,7 +82,7 @@ Cookie-uri
 
 # Used as link in the footer
 ;Firefox Affiliates
-Firefox Affiliates
+Afiliere Firefox
 
 
 ;Legal Notices
@@ -275,7 +275,7 @@ Dispozitive suportate
 
 # This is the equivalent of 'Release Notes' but shorter, used next to download buttons
 ;What’s New
-Ce e nou
+Noutăți
 
 
 # This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
@@ -320,7 +320,7 @@ Suplimente pentru desktop
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Add-ons
-Android Add-ons
+Suplimente (Add-ons) Android
 
 
 # Top menu item on pages like firefox/desktop/tips/
@@ -335,7 +335,7 @@ Suport desktop
 
 # Top menu item on pages like firefox/desktop/tips/
 ;Android Support
-Android Support
+Suport Android
 
 
 # Top menu item on firefox/update page
@@ -355,7 +355,7 @@ Confidențialitate și securitate
 
 # Top menu item on firefox/update page
 ;Releases
-Lansări
+Ediții
 
 
 # Top menu item on firefox/update page
@@ -375,7 +375,7 @@ Firefox pentru organizații
 
 # Top menu item on firefox/update page
 ;Mobile Add-ons
-Suplimente pentru mobil
+Suplimente (Add-ons) pentru mobil
 
 
 # Top menu item on firefox/update page
@@ -395,7 +395,7 @@ Despre Firefox
 
 # Top menu item on firefox/update page
 ;Join Mozilla
-Alătură-te Mozilla
+Alătură-te Mozillei
 
 
 # Top menu item on firefox/update page
@@ -405,7 +405,7 @@ Participă
 
 # Top menu item on firefox/update page
 ;Brand Toolkit
-Set unelte pentru marcă
+Set unelte pentru brand
 
 
 # Top menu item on firefox/update page
@@ -495,23 +495,23 @@ Rapid
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-Creat pentru tine, pentru confidențialitatea ta și pentru un web deschis.
+Creat pentru tine, pentru confidențialitatea ta și pentru un web deschis
 
 
 # Common title used in Fx 10 pages
 ;Choose Independent
-Choose Independent
+Alege în mod independent
 
 
 # Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
 # The '#ChooseIndependent' hashtag should not be translated.
 ;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
-Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Păstrează-ți pasiunea pentru un internet deschis! #ChooseIndependent Alege Firefox:
 
 
 # This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
 ;Please turn on JavaScript to display this page correctly.
-Please turn on JavaScript to display this page correctly.
+Vă rugăm să activați JavaScript pentru a putea afișa această pagină corect.
 
 
 # Used as link to /firefox/desktop in footers on some pages
@@ -605,7 +605,7 @@ Decembrie
 
 
 ;<abbr>Sep</abbr>
-<abbr>sep</abbr>
+<abbr>Sep</abbr>
 
 
 ;<abbr>Oct</abbr>
