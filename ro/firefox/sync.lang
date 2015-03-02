@@ -15,11 +15,11 @@ V-ați înregistrat. Sunteți gata să accesați Firefoxul dumneavoastră oriund
 
 
 ;Take your Web with you
-Luați Web-ul cu dumneavoastră
+Luați internetul cu dumneavoastră
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync-ronizați cu Firefox oricînd doriți să accesați semnele de carte, parolele și altele de pe telefon, tabletă și calculator.
+Sincronizați cu Firefox oricînd doriți să accesați semnele de carte, parolele și altele de pe telefon, tabletă și calculator.
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -71,7 +71,7 @@ Deschide <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">meniul</a> î
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Dați click pe “<strong>Get started</strong>” în tab-ul care se deschide
+Dați clic pe “<strong>Get started</strong>” în tab-ul care se deschide
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -81,11 +81,11 @@ Introduceți adresa de email și parola pentru a “<strong>Crea un cont Firefox
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Next</strong>” to get a verification sent to your email.
-Dați click pe “<strong>Înainte</strong>” pentru a primi un email de verificare.
+Dați clic pe “<strong>Înainte</strong>” pentru a primi un email de verificare.
 
 
-;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-După ce vă verificați poșta electronică (email), dați click pe link-ul de verificare! Firefox vă va sincroniza în mod automat din acel moment.
+;After you check your email and clic the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+După ce vă verificați poșta electronică (email), dați clic pe link-ul de verificare! Firefox vă va sincroniza în mod automat din acel moment.
 
 
 ;Get more detailed instructions.
@@ -129,7 +129,7 @@ Completați formularul și apăsați pe opțiunea <strong>Înainte (Next)</stron
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-După ce vă verificați poșta electronică (email) și dati click pe link-ul de verificare, veți fi gata să porniți! Nu uitați să vă conectați toate celelalte dispozitive pentru a obține maximul din Sync.
+După ce vă verificați poșta electronică (email) și dati clic pe link-ul de verificare, veți fi gata să porniți! Nu uitați să vă conectați toate celelalte dispozitive pentru a obține maximul din Sync.
 
 ;Sync a little. Sync a lot.
 Sincronizați puțin. Sincronizați mai mult.
@@ -212,7 +212,7 @@ Clic pe „Înainte” pentru a primi o verificare trimisă pe emailul dumneavoa
 
 # Used in old page, do not remove
 ;Check your email and click the verification link.
-Verificați-vă emailul și click pe legătura de verificare.
+Verificați-vă emailul și clic pe legătura de verificare.
 
 
 # Used in old page, do not remove
